@@ -1,2 +1,2 @@
 # odin_recipes
-This is demonstrate my understanding of html course.
+This is to demonstrate my understanding of html course.
